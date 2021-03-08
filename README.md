@@ -9,3 +9,4 @@
 # so, I use for loop to calculate the ean value of pressure
 # forth step,if ans is equal to zero, I give them name 'none'
 # and print ans.
+# my result is [['C0A880', 1017.7], ['C0F9A0', 967.7565217391307], ['C0G640', 1016.9608695652173], ['C0R190', 1011.2166666666667], ['C0X260', 1012.2083333333335]]
