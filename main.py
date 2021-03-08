@@ -33,8 +33,6 @@ for ID in target_id:
         target_data.append(d)
     else:
         target_data.append([{'station_id':ID, 'PRES':float('0')}])
-
-print(target_data)
 ans=[]
 cnt=0
 for this_data in target_data:
